@@ -1,14 +1,13 @@
 SUMMARY
 -------
 
-1. This is my personal dotfiles & stuff
-2. Work is in progress (constantly)
-3. All content is open source and content is [Creative Commons Share Alike 2.0] (http://creativecommons.org/licenses/by-sa/2.0/uk/)
-4. This repo is full of fuck
+### This repo was abandoned in favor of much cooler osx stuff
+  * [HOT NEW STUFF](madundead/stuff)    
+  * BORING OLD STUFF ↓
 
 ![](http://i.imgur.com/j5An8nf.png)
 
-If you're cool with it - feel free to use, modify or share contents of this repo.
+
 
 INSTALL
 -------
