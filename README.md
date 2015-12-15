@@ -2,7 +2,7 @@ SUMMARY
 -------
 
 ### This repo was abandoned in favor of much cooler osx stuff
-  * [HOT NEW STUFF](madundead/stuff)    
+  * [HOT NEW STUFF](https://github.com/madundead/stuff)    
   * BORING OLD STUFF ↓
 
 ![](http://i.imgur.com/j5An8nf.png)
